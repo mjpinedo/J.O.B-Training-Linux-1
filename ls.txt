@@ -1,0 +1,11 @@
+LICENSE
+README.md
+cutpractice.txt
+exercise2.md
+exercise3.md
+exercise4.md
+exercise5.md
+gettysburg-address.txt
+ls.txt
+phonebook.csv
+pwd.txt
